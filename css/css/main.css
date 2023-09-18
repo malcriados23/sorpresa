@@ -1,0 +1,17 @@
+* {
+    margin: auto;
+}
+
+#col1 {
+    float: left;
+    height: 100px;
+    width: 100px;
+    background-color: blue;
+}
+
+#col2 {
+    float: right;
+    height: 100px;
+    width: 100px;
+    background-color: rgb(113, 113, 179);
+}
